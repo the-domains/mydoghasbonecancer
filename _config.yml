@@ -1,0 +1,28 @@
+name: mydoghasbonecancer
+favicon: null
+layout_spectrum: 0.6724412280600518
+typography_spectrum: 0.22745691682212055
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.06360597512684762
+  lightness: 0.74593063024804
+  saturation: 0.06153371813707054
+  rhythmicContrast: 0.4727951993700117
+purpose: []
